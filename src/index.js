@@ -12,9 +12,8 @@ const theme = extendTheme({
   },
 });
 
-// RinkebyWk Server 5/25/22
-const moralisAppId = "lEzaFkcw1jhmpTUIIgN3iLBz6YQzg7UlEkJttr";
-const moralisServerURL = "https://gpynnmaf8fwh.usemoralis.com:2053/server";
+const moralisAppId = "enter Application ID here";
+const moralisServerURL = "enter server URL here";
 
 ReactDOM.render(
   <React.StrictMode>
